@@ -18,7 +18,7 @@
     "author": "Maksym Brieiev",
     "license": "MIT",
     "dependencies": {
-        "redis": "*",
-        "redis-commands": "*"
+        "redis": "^2.6.5",
+        "redis-commands": "1.7.0"
     }
 }
